@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jordanbmowry
-- 👀 I’m interested in webdevelopment, metal, and fitness.
+- 👀 I’m interested in web development, metal, and fitness.
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jordan.mowry@gmail.com
