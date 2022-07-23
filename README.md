@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jordan Mowry.
 - 👀 I’m interested in web development, metal, and fitness.
-- 🌱 I’m currently learning Next.js.
+- 🌱 I’m currently learning Nuxt/Vue.js.
 - 💞️ I’m looking to collaborate on anything JavaScript.
 - 📫 How to reach me jordan.mowry@gmail.com
 
