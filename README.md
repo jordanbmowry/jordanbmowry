@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jordan Mowry.
-- 🏡 I am a junior dev at a tech startup called TapOnIt. 
+- 🏡 I am a junior dev at TapOnIt. 
 - 👀 I’m interested in web development, metal, and fitness.
 - 🌱 I’m currently learning Nuxt/Vue.js.
 - 💞️ I’m looking to collaborate on anything JavaScript.
