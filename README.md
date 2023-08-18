@@ -1,5 +1,5 @@
 ## Jordan Mowry
-### Full Stack Developer | JavaScript | React | Node.js
+### Full Stack Developer | JavaScript | React | Node.js | Python
 
 🌟 Passionate about building cool user interfaces that solve real problems 🚀
 
