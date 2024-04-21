@@ -6,12 +6,11 @@
 👨‍💻 Full Stack Developer proficient in JavaScript, HTML, CSS, React, Vue.js, and Node.js  
 🧩 Problem solver with a love for puzzles, chess, research, and programming  
 🎨 Dedicated to creating user-friendly and visually appealing interfaces  
-💡 Experienced in developing web applications using modern tech stack  
+💡 Experienced in developing web applications using a modern tech stack  
 🔧 Skilled in front-end technologies like CSS3, HTML5, and JavaScript ES6  
 💻 Proficient in React, Vue.js, Next.js, Express, and Node.js  
 🛠️ Familiar with tools like Git, GitHub, Heroku, and PostgreSQL  
 🧠 Knowledgeable in algorithms, data structures, and RESTful APIs 
-🌱 I’m currently learning Rust 🦀.
 👀 I’m interested in web development, metal, and fitness.
 
 🚀 Check out my projects below! 👇
