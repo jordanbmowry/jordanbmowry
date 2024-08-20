@@ -16,8 +16,8 @@
 
 🚀 Check out my projects below! 👇
 
-- 📋 **Serverless TODO Application**: A full-stack project developed as part of the Udacity Cloud Developer Nanodegree program. This application allows users to manage their tasks, providing features like creating, updating, deleting, and retrieving TODO items. Each item can have an optional attachment image. The backend is built with AWS Lambda and managed through the Serverless Framework. It uses API Gateway for routing, DynamoDB for storage, and S3 for file uploads. User authentication is handled through Auth0, ensuring secure access to data. This project showcases my ability to develop scalable, serverless applications on AWS, using a combination of infrastructure as code, cloud services, and modern development practices.
-  
+- 📋 **Serverless TODO Application**: Full-stack application built with AWS Lambda, API Gateway, DynamoDB, S3, and Auth0. It allows users to manage tasks, including creating, updating, deleting, and attaching images to TODO items. Developed as part of the Udacity Cloud Developer Nanodegree program.
+
 - 🍽️ **Restaurant Reservation**: Full-stack application built with React, Node.js, Express, and PostgreSQL. Allows users to schedule reservations, create tables, and manage reservations.
   
 - 🎥 **We-love-movies**: REST API for accessing data about movies, theaters, and reviews. Built with Express.js, Node.js, and PostgreSQL.
