@@ -16,16 +16,16 @@
 
 🚀 Check out my projects below! 👇
 
-- 📋 **Serverless TODO Application**: Full-stack application built with AWS Lambda, API Gateway, DynamoDB, S3, and Auth0. It allows users to manage tasks, including creating, updating, deleting, and attaching images to TODO items. Developed as part of the Udacity Cloud Developer Nanodegree program.
+- 📋 **Serverless TODO Application**: Full-stack application built with AWS Lambda, API Gateway, DynamoDB, S3, and Auth0. It allows users to manage tasks, including creating, updating, deleting, and attaching images to TODO items. Developed as part of the Udacity Cloud Developer Nanodegree program. [demo](https://magnificent-eclair-0c01b7.netlify.app/)
 
-- 🍽️ **Restaurant Reservation**: Full-stack application built with React, Node.js, Express, and PostgreSQL. Allows users to schedule reservations, create tables, and manage reservations.
+- 🍽️ **Restaurant Reservation**: Full-stack application built with React, Node.js, Express, and PostgreSQL. Allows users to schedule reservations, create tables, and manage reservations.[demo](https://reservation-front-end.herokuapp.com/dashboard)
   
-- 🎥 **We-love-movies**: REST API for accessing data about movies, theaters, and reviews. Built with Express.js, Node.js, and PostgreSQL.
+- 🎥 **We-love-movies**: REST API for accessing data about movies, theaters, and reviews. Built with Express.js, Node.js, and PostgreSQL. [repo](https://github.com/jordanbmowry/we-love-movies)
   
-- 🔑 **Decoder Ring**: JavaScript application that encodes and decodes user-submitted messages. Includes unit tests using Mocha and Chai.
+- 🔑 **Decoder Ring**: JavaScript application that encodes and decodes user-submitted messages. Includes unit tests using Mocha and Chai. [demo](https://jordanbmowry.github.io/decoder-ring/)
   
-- 💡 **Flashcard-o-matic**: Digital flashcard application built with React, Bootstrap 4, HTML, and CSS.
+- 💡 **Flashcard-o-matic**: Digital flashcard application built with React, Bootstrap 4, HTML, and CSS. [repoo](https://github.com/jordanbmowry/Flashcard-o-matic)
   
-- ⏲️ **Pomodoro Timer**: Timer application for breaking work into intervals. Built with React and Bootstrap.
+- ⏲️ **Pomodoro Timer**: Timer application for breaking work into intervals. Built with React and Bootstrap. [demo](https://eager-gates-00c9cc.netlify.app/)
 
 📞 Let's connect and collaborate! Feel free to reach out via [email](mailto:jordan.mowry@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jordan-mowry).
