@@ -1,5 +1,7 @@
 ## Jordan Mowry
+
 ### Full Stack Developer | JavaScript | React | Node.js | Python | OutSystems | Cloud Developer
+🌐  **Website**: [Portfolio](https://jordanbmowry.com)
 
 🌟 Passionate about building cool user interfaces that solve real problems 🚀
 
@@ -29,3 +31,4 @@
 - ⏲️ **Pomodoro Timer**: Timer application for breaking work into intervals. Built with React and Bootstrap. [demo](https://eager-gates-00c9cc.netlify.app/)
 
 📞 Let's connect and collaborate! Feel free to reach out via [email](mailto:jordan.mowry@gmail.com) or [LinkedIn](https://www.linkedin.com/in/jordan-mowry).
+
